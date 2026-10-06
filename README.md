@@ -29,9 +29,12 @@ Built an interactive Excel dashboard to analyze supply chain data including prod
 10. Total Costs: ₹52,924
 
 ## Screenshots
-![Summary](summary.png)
-![Product Chart](product_chart.png)
-![Supplier Chart](supplier_chart.png)
+<img width="1203" height="590" alt="image" src="https://github.com/user-attachments/assets/b558d5e4-44f1-421d-b35b-3adcc18fcc10" />
+<img width="1142" height="518" alt="image" src="https://github.com/user-attachments/assets/dd6aa84a-ee04-48ad-8d76-41d8a1c84c7d" />
+<img width="1080" height="539" alt="image" src="https://github.com/user-attachments/assets/61da6106-e8d3-411d-8403-6448e8e31fc4" />
+
+
+
 
 ## Files
 - Supply_Chain_Excel.xlsx
